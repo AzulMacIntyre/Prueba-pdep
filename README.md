@@ -1,8 +1,7 @@
 # Azul Ludmila Mac Intyre Asurey
-<img src="https://github.com/user-attachments/assets/20d1552c-8c64-468e-b6ba-ef711c8a8e56" width="500">
-
 **Legajo:** 208.061-8  
 **Edad:** 23 años
+<img src="https://github.com/user-attachments/assets/20d1552c-8c64-468e-b6ba-ef711c8a8e56" width="400">
 
 ## Sobre mí
 + Tengo 2 gatos (hembra y macho) y un perro.
