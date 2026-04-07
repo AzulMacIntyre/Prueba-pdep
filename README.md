@@ -1,6 +1,6 @@
 # Azul Ludmila Mac Intyre Asurey
 
-<img src="https://github.com/user-attachments/assets/0fa53dcc-41d7-45e7-bbcc-7c575feffbbe" width="50%" align="left">
+<img src="https://github.com/user-attachments/assets/0fa53dcc-41d7-45e7-bbcc-7c575feffbbe" width="200" align="left">
 
 **Legajo:** 208.061-8  
 **Edad:** 23 años
