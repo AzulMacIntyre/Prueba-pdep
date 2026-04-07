@@ -6,9 +6,9 @@
 **Edad:** 23 años
 
 ## Sobre mí
-Tengo 2 gatos (hembra y macho) y un perro.  
-En mis tiempos libres me gusta salir a pasear, leer, cocinar e ir al gimnasio.
-Actualmente trabajo como consultora técnica y estoy cursando la carrera de Ingeniería en Sistemas.  
++Tengo 2 gatos (hembra y macho) y un perro.  
++En mis tiempos libres me gusta salir a pasear, leer, cocinar e ir al gimnasio.
++Actualmente trabajo como consultora técnica y estoy cursando la carrera de Ingeniería en Sistemas.  
 
 ---
 
