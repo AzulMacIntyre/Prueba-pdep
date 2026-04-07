@@ -17,4 +17,4 @@ Tyson, Nina y Ragnar 😍
 
 | Tyson | Nina | Ragnar |
 |-------|------|--------|
-| <img src="![IMG_4704](https://github.com/user-attachments/assets/daf75ff0-d30c-4c21-b7d0-999b018a537b)" width="300"> | <img src="![IMG_4705](https://github.com/user-attachments/assets/e339b2ff-b13e-4541-84ef-135273ae77a8)" width="300"> | <img src="![IMG_4706](https://github.com/user-attachments/assets/f281313c-2e5a-42b3-bfbe-1f7435832aa5)" width="300"> |
+| <img src="https://github.com/user-attachments/assets/daf75ff0-d30c-4c21-b7d0-999b018a537b" width="300"> | <img src="https://github.com/user-attachments/assets/e339b2ff-b13e-4541-84ef-135273ae77a8" width="300"> | <img src="https://github.com/user-attachments/assets/f281313c-2e5a-42b3-bfbe-1f7435832aa5" width="300"> |
